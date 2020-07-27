@@ -139,7 +139,7 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-			<version>42.2.12</version>
+			<version>9.4-1201-jdbc41</version>
 		</dependency>
 
 

@@ -11238,3 +11238,48 @@
 2020-07-27 20:53:43 INFO  UserShiftServiceImp:99 - Begin service :finishShiftAndComputeSalary
 2020-07-27 20:53:43 INFO  UserShiftServiceImp:133 - End service :finishShiftAndComputeSalary
 2020-07-27 20:53:43 INFO  UserShiftController:65 - End controller :finishShiftAndComputeSalary
+2020-07-28 02:04:41 DEBUG ShiftManagementApplication:32 - Starting Swagger
+2020-07-28 02:26:42 DEBUG ShiftManagementApplication:32 - Starting Swagger
+2020-07-28 02:27:04 INFO  UserController:76 - Begin controller :getListAccount
+2020-07-28 02:27:04 INFO  UserServiceImp:108 - Begin service :getListAccount
+2020-07-28 02:27:05 INFO  UserServiceImp:115 - End service :getListAccount
+2020-07-28 02:27:05 ERROR UserController:81 - org.springframework.orm.jpa.JpaSystemException: Null value was assigned to a property [class shift.management.entity.User.age] of primitive type setter of shift.management.entity.User.age; nested exception is org.hibernate.PropertyAccessException: Null value was assigned to a property [class shift.management.entity.User.age] of primitive type setter of shift.management.entity.User.age
+2020-07-28 02:27:05 INFO  UserController:84 - End controller :getListAccount
+2020-07-28 02:27:20 INFO  UserController:32 - Begin controller :createAccount
+2020-07-28 02:27:20 INFO  UserServiceImp:43 - Begin service :createAccount
+2020-07-28 02:27:21 INFO  UserServiceImp:63 - End service :createAccount
+2020-07-28 02:27:21 ERROR UserController:37 - org.springframework.orm.jpa.JpaSystemException: Null value was assigned to a property [class shift.management.entity.User.age] of primitive type setter of shift.management.entity.User.age; nested exception is org.hibernate.PropertyAccessException: Null value was assigned to a property [class shift.management.entity.User.age] of primitive type setter of shift.management.entity.User.age
+2020-07-28 02:27:21 INFO  UserController:40 - End controller :createAccount
+2020-07-28 02:28:20 INFO  UserController:32 - Begin controller :createAccount
+2020-07-28 02:28:20 INFO  UserServiceImp:43 - Begin service :createAccount
+2020-07-28 02:28:21 INFO  UserServiceImp:63 - End service :createAccount
+2020-07-28 02:28:21 ERROR UserController:37 - org.springframework.orm.jpa.JpaSystemException: Null value was assigned to a property [class shift.management.entity.User.age] of primitive type setter of shift.management.entity.User.age; nested exception is org.hibernate.PropertyAccessException: Null value was assigned to a property [class shift.management.entity.User.age] of primitive type setter of shift.management.entity.User.age
+2020-07-28 02:28:21 INFO  UserController:40 - End controller :createAccount
+2020-07-28 02:29:34 INFO  UserController:76 - Begin controller :getListAccount
+2020-07-28 02:29:34 INFO  UserServiceImp:108 - Begin service :getListAccount
+2020-07-28 02:29:36 INFO  UserServiceImp:115 - End service :getListAccount
+2020-07-28 02:29:36 ERROR UserController:81 - org.springframework.orm.jpa.JpaSystemException: Null value was assigned to a property [class shift.management.entity.User.age] of primitive type setter of shift.management.entity.User.age; nested exception is org.hibernate.PropertyAccessException: Null value was assigned to a property [class shift.management.entity.User.age] of primitive type setter of shift.management.entity.User.age
+2020-07-28 02:29:36 INFO  UserController:84 - End controller :getListAccount
+2020-07-28 02:30:11 INFO  UserController:76 - Begin controller :getListAccount
+2020-07-28 02:30:11 INFO  UserServiceImp:108 - Begin service :getListAccount
+2020-07-28 02:30:12 INFO  UserServiceImp:115 - End service :getListAccount
+2020-07-28 02:30:12 ERROR UserController:81 - org.springframework.orm.jpa.JpaSystemException: Null value was assigned to a property [class shift.management.entity.User.sex] of primitive type setter of shift.management.entity.User.sex; nested exception is org.hibernate.PropertyAccessException: Null value was assigned to a property [class shift.management.entity.User.sex] of primitive type setter of shift.management.entity.User.sex
+2020-07-28 02:30:12 INFO  UserController:84 - End controller :getListAccount
+2020-07-28 02:30:31 INFO  UserController:76 - Begin controller :getListAccount
+2020-07-28 02:30:31 INFO  UserServiceImp:108 - Begin service :getListAccount
+2020-07-28 02:30:32 INFO  UserServiceImp:115 - End service :getListAccount
+2020-07-28 02:30:32 ERROR UserController:81 - org.springframework.orm.jpa.JpaSystemException: Null value was assigned to a property [class shift.management.entity.User.weight] of primitive type setter of shift.management.entity.User.weight; nested exception is org.hibernate.PropertyAccessException: Null value was assigned to a property [class shift.management.entity.User.weight] of primitive type setter of shift.management.entity.User.weight
+2020-07-28 02:30:32 INFO  UserController:84 - End controller :getListAccount
+2020-07-28 02:30:52 INFO  UserController:76 - Begin controller :getListAccount
+2020-07-28 02:30:52 INFO  UserServiceImp:108 - Begin service :getListAccount
+2020-07-28 02:30:53 INFO  UserServiceImp:115 - End service :getListAccount
+2020-07-28 02:30:53 INFO  UserController:84 - End controller :getListAccount
+2020-07-28 02:31:09 INFO  UserController:32 - Begin controller :createAccount
+2020-07-28 02:31:09 INFO  UserServiceImp:43 - Begin service :createAccount
+2020-07-28 02:31:10 INFO  UserServiceImp:63 - End service :createAccount
+2020-07-28 02:31:10 ERROR UserController:37 - java.lang.Exception: Account is exist
+2020-07-28 02:31:10 INFO  UserController:40 - End controller :createAccount
+2020-07-28 02:31:44 INFO  UserController:32 - Begin controller :createAccount
+2020-07-28 02:31:44 INFO  UserServiceImp:43 - Begin service :createAccount
+2020-07-28 02:31:46 INFO  UserServiceImp:63 - End service :createAccount
+2020-07-28 02:31:46 INFO  UserController:40 - End controller :createAccount
