@@ -24,7 +24,6 @@ import static springfox.documentation.builders.PathSelectors.regex;
 
 @SpringBootApplication
 @EntityScan("shift.management.entity")
-//@EnableAutoConfiguration
 @EnableSwagger2
 public class ShiftManagementApplication {
 	public static final Logger logger = Logger.getLogger(ShiftManagementApplication.class);
